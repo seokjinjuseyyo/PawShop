@@ -3,6 +3,7 @@
 pengguna = { 
     "admin": {
         "password": "admin123",
+ main
         "role": "admin"
     },
     "user": {
